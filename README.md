@@ -1,34 +1,6 @@
-# CURSOR MOZAMBIQUE HACKATHON
+# 🌊 FloodGuard Mozambique — Build for Resilience
 
-### FloodGuard Mozambique - Build for Resilience
-A Cursor Hackathon · Organised by BIT Academy
-
----
-
-## Table of Contents
-- [About the Event](#about-the-event)
-- [The Challenge & Tracks](#the-challenge--tracks)
-- [Requirements & Rules](#requirements--rules)
-- [Schedule (Run of Show)](#schedule-run-of-show)
-- [Resources](#resources)
-- [Judging Criteria](#judging-criteria)
-- [Claiming Your Cursor Credits](#claiming-your-cursor-credits)
-- [Submission Checklist](#submission-checklist)
-- [Winners & Prizes](#winners--prizes)
-
----
-
-## About the Event
-
-| | |
-|---|---|
-| **Event type** | One-day developer build challenge (hackathon format) |
-| **Theme** | Flood preparedness, response & recovery in Mozambique |
-| **Core tool** | Cursor — used live for planning, coding, debugging & refactoring |
-| **Organised by** | BIT Academy |
-| **Venue** | Faculdade de Engenharia, Maputo |
-| **Date & Time** | Saturday, 4 July 2026 · 10:00 AM |# 🌊 FloodGuard Mozambique — Build for Resilience
-
+### A Cursor Hackathon · Organised by BIT Academy
 
 > **CODING CHALLENGE.**
 > Ship a working prototype that helps Mozambicans prepare for, survive, or recover from a flood — built mobile-first, in Portuguese, using Cursor AI.
@@ -184,7 +156,7 @@ Make sure your submission includes:
 - [ ] Public GitHub repository link
 - [ ] Live URL or recorded demo video (max 3 min)
 - [ ] Screenshot of your Cursor dashboard showing active usage
-- [ ] Track selected (Alerta / Rota Segura / SOS Reuniao / Depois)
+- [ ] Track selected (Alerta / Rota Segura / SOS Reunião / Depois)
 - [ ] All team member names
 
 ---
