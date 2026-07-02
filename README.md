@@ -1,7 +1,7 @@
 # CURSOR MOZAMBIQUE HACKATHON
 
-### FloodGuard Mozambique- Build for Resilience
-#### A Cursor Hackathon · Organised by BIT Academy
+### FloodGuard Mozambique - Build for Resilience
+A Cursor Hackathon · Organised by BIT Academy
 
 ---
 
