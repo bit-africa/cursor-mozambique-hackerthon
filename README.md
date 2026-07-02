@@ -50,7 +50,7 @@ Teams pick **one of four tracks**. Each track keeps the theme tight while leavin
 | **4&nbsp;·&nbsp;Depois** | Recovery | Track cholera / disease hotspots, map clean-water points, or manage crop and livestock loss claims for fair aid distribution. |
 
 > [!IMPORTANT]
-> **Scope guidance:** ship one feature that works end-to-end rather than five half-built screens. Flooding is a "does it actually function under pressure" theme — the judging rewards exactly that.
+> **Scope guidance:** Ship one feature that **works end-to-end** rather than five half-built screens. Flooding is a "does it actually function under pressure" theme - the judging rewards exactly that.
 
 ---
 
