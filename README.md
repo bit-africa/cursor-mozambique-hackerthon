@@ -40,16 +40,15 @@ Goals:
 ---
 
 ## The Challenge & Tracks
-
+ 
 Teams pick **one of four tracks**. Each track keeps the theme tight while leaving room for creativity:
-
+ 
 | Track | Focus | What teams might build |
 |-------|-------|------------------------|
-| **1 · Alerta** | Early warning | Crowd-sourced or sensor-fed water-level reporting that pushes warnings to at-risk neighbourhoods. Bonus: works over SMS / USSD or fully offline. |
-| **2 · Rota Segura** | Evacuation | Map of flood zones, nearest shelters and safe routes. Bonus: live capacity tracking per evacuation centre. |
-| **3 · SOS / Reunião** | Response | Report trapped people, match relief needs (clean water, shelter, meds) to volunteers and donors, or help separated families find each other. |
-| **4 · Depois** | Recovery | Track cholera / disease hotspots, map clean-water points, or manage crop and livestock loss claims for fair aid distribution. |
-
+| **1&nbsp;·&nbsp;Alerta** | Early warning | Crowd-sourced or sensor-fed water-level reporting that pushes warnings to at-risk neighbourhoods. Bonus: works over SMS / USSD or fully offline. |
+| **2&nbsp;·&nbsp;Rota&nbsp;Segura** | Evacuation | Map of flood zones, nearest shelters and safe routes. Bonus: live capacity tracking per evacuation centre. |
+| **3&nbsp;·&nbsp;SOS&nbsp;/&nbsp;Reunião** | Response | Report trapped people, match relief needs (clean water, shelter, meds) to volunteers and donors, or help separated families find each other. |
+| **4&nbsp;·&nbsp;Depois** | Recovery | Track cholera / disease hotspots, map clean-water points, or manage crop and livestock loss claims for fair aid distribution. |
 > **Scope guidance:** ship one feature that works end-to-end rather than five half-built screens. Flooding is a "does it actually function under pressure" theme — the judging rewards exactly that.
 
 ---
