@@ -57,7 +57,7 @@ Teams pick **one of four tracks**. Each track keeps the theme tight while leavin
 ## Requirements & Rules
 
 ### Hard Requirements (judged)
-- **Built in Cursor** — teams must show their workflow (Composer, chat, agents, rules) and prove it with a Cursor dashboard screenshot.
+- **Built in Cursor** — teams must show their workflow (**Composer, chat, agents, rules**) and prove it with a Cursor dashboard screenshot.
 - **Any stack** — any language, framework or platform is welcome. Cursor is the only required tool.
 - **Mobile-first** and usable on a slow 3G connection.
 - **Portuguese UI** (or local language; English acceptable only as a fallback).
@@ -74,7 +74,7 @@ Teams pick **one of four tracks**. Each track keeps the theme tight while leavin
 
 ---
 
-## Schedule (Run of Show)
+## Schedule
 
 | Time | Segment | Notes |
 |------|---------|-------|
