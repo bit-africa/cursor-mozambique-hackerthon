@@ -5,7 +5,7 @@ A Cursor Hackathon · Organised by BIT Academy
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 - [About the Event](#about-the-event)
 - [The Challenge & Tracks](#the-challenge--tracks)
 - [Requirements & Rules](#requirements--rules)
