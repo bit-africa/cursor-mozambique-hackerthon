@@ -149,7 +149,7 @@ Every registered participant gets **$20 of Cursor credits** to use during and af
 
 Submit your project via the form before **15:10**:
 
-👉 **[Project Submission Form](https://YOUR-GOOGLE-FORM-LINK-HERE)**
+👉 **[Project Submission Form](https://forms.gle/SSwuKiuP1tRvPWPj6)**
 
 Make sure your submission includes:
 
