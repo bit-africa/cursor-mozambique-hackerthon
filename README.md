@@ -1,3 +1,5 @@
+![Hero Image](Hero-image.png)
+
 # CURSOR Mozambique Hackerthon 2026
 🌊FloodGuard Mozambique - Build for Resilience
 ##### A Cursor Hackathon · Organised by BIT Academy
