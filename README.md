@@ -135,12 +135,12 @@ Every registered participant gets **$20 of Cursor credits** to use during and af
 
 2. You will receive a **unique redemption link** by email. Open that link in the **same browser where you are logged into Cursor**.
 
-3. Click **Redeem** on the credits page. Your credits will appear under **Cursor Dashboard > Credits**.
+3. Click **Redeem** on the credits page. Your credits will appear under **Overview > Credits** in your Cursor dashboard.
 
 ### Important notes
 - You must be **logged in** to your Cursor account in the same browser before opening the redemption link.
-- Credits work on **Free and Pro accounts** — they appear in Dashboard > Credits and are applied automatically to your next invoice.
-- Credits **do not work on Team plan accounts** — only individual Pro / Pro+ / Ultra accounts.
+- Credits work on **Free and Pro accounts** — they appear **Overview > Credits** and are applied automatically to your next invoice.
+- Credits **do not work on Team plan accounts** — only **individual Pro / Pro+ / Ultra** accounts.
 - If you are on the Free plan, use the free tier first; once you hit the plan limit, start a Pro account with a valid payment method (your card won't be charged while credits cover the invoice).
 - If credits do not appear after redeeming, try a hard refresh or log out and back in to the Dashboard.
 - Each redemption link is **single-use** and tied to your account — do not share it.
