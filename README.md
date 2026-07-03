@@ -83,7 +83,7 @@ Teams pick **one of four tracks**. Each track keeps the theme tight while leavin
 | 10:55 | Challenge reveal | Rules, resources and starter kit handed out. |
 | 11:00 | Team formation | Teams form (2–4) and pick a track. |
 | 11:10 | **Build session begins** | Mentors roam. Encourage end-to-end over feature sprawl. |
-| 15:10 | Project submission | Teams submit via the [project submission form]([https://YOUR-GOOGLE-FORM-LINK-HERE](https://forms.gle/21RWhT2pV158KpXZA)). |
+| 15:10 | Project submission | Teams submit via the [project submission form](https://forms.gle/21RWhT2pV158KpXZA). |
 | 15:20 | Team demos & judging | 3 minutes per team. Judges score live. |
 | 16:10 | Judges deliberation | Tally scores, break ties, announce winners. |
 | 16:20 | Awards, group photo & closing | Announce winners; distribute winner credits; group photo. |
