@@ -131,7 +131,7 @@ Every registered participant gets **$20 of Cursor credits** to use during and af
 ### How to redeem
 
 1. **Visit the credits portal** and enter your name and email address:
-   👉 **[Claim your Cursor credits here](https://YOUR-CREDITS-FORM-LINK-HERE)**
+   👉 **[Claim your Cursor credits here](https://cursor-credits-distribution.vercel.app/)**
 
 2. You will receive a **unique redemption link** by email. Open that link in the **same browser where you are logged into Cursor**.
 
